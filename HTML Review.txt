@@ -1,0 +1,9 @@
+0.1: HTML) HyperText Markup Language is used for web application and development,
+using markup symbols (<ul><\ul> <li><\li> <div><\div> <img><\img> etc), 
+which are interpreted by the browser, generates a website using what is written in the HTML document.
+
+0.2: CSS) With the use of Cascading Style Sheets, in addition to stylizing the appearance of an HTML, 
+you can also organize div's and section's on the page and other elements in general, using flex or flex-box.
+
+0.3: HTML Forms) Forms in HTML is a group of event elements (cancel, save, submit etc) commonly used to
+collect some user information for a specific need (registration, medical consultation, etc).
